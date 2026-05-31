@@ -1,0 +1,10 @@
+langchain
+ipykernel
+python-dotenv
+langchain_openai
+beautifulsoup4
+langchain_community
+faiss-cpu
+langgraph-cli[inmem]
+sentence-transformers
+rank_bm25
